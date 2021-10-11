@@ -2,10 +2,8 @@ import MyOwnReact from '../lib/MyOwnReact'
 
 const root = document.getElementById('root')
 
-const jsxContent = (
-  <div>
-    <h1 className="header">Get Started with my own React!!!</h1>
-  </div>
-)
+function App(props) {
+  return <h1>{props.name}</h1>
+}
 
-MyOwnReact.render(jsxContent, root)
+MyOwnReact.render(<App name="My Own React App" />, root)
