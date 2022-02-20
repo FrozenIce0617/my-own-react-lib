@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.content {
+  width: 80%;
+  margin: 0 auto;
+}
+.controls {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+}
+
+.btn {
+  height: fit-content;
+  padding: 10px 25px;
+  color: white;
+  border: none;
+  font-size: 1em;
+}
+
+.btn-next {
+    background-color: mediumseagreen;
+}
+
+.btn-prev {
+    background-color: tomato;
+}
