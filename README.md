@@ -1,8 +1,8 @@
 # MyOwnReact
 ## Motivation
 
-- To confirm the react lifecycle
 - For light weight lib like react for vanilla js project
+- To confirm the react lifecycle
 
 ## Topics
 
