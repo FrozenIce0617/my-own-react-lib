@@ -1,7 +1,4 @@
-# Project Title
-
-MyOwnReact
-
+# MyOwnReact
 ## Motivation
 
 - To confirm the react lifecycle
