@@ -51,7 +51,7 @@ you can run `npx webpack serve` as dev server, then you can see the app is runni
 
 ## demo app
 The demo app shows the dad joke and possible to see next or prev joke by clicking buttons.
-It is implemented `useEffect`, `useState` of this lib.
+It is implemented with `useEffect`, `useState` of this lib.
 
 
 <p align="center">
