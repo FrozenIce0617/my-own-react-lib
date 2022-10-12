@@ -1,4 +1,4 @@
-# MyOwnReact
+# React.js Clone
 ## Motivation
 
 - For light weight lib like react for vanilla js project
